@@ -1,0 +1,22 @@
+[1ST]
+TJA:Aloft in the wind.tja
+COURSE:Oni
+NEXT
+
+[2ND]
+TJA:サタデー太鼓フィーバー.tja
+COURSE:Edit
+NEXT
+
+[3RD]
+TJA:駆け抜けてゆく.tja
+COURSE:Oni
+NEXT
+
+[Common]
+MAINTITLE:三段
+DANTYPE:Blue
+GAUGE:99,100
+EXAM1:c,1086,1138,m
+EXAM2:jb,24,24,l
+EXAM3:r,344,386,m
